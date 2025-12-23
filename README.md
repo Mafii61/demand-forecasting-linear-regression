@@ -1,7 +1,9 @@
 # Demand Forecasting with Linear Regression
 
-This project implements a demand forecasting approach using a linear regression model with lag-based features.
+This project implements A demand forecasting case study using linear regression and time-series features.
 The goal is to predict future demand based on historical patterns and compare the model against a simple naive baseline.
+
+Achieves ~46.8% RMSE improvement over a naive baseline.
 
 ---
 
@@ -84,6 +86,7 @@ Possible extensions include:
 ### 1. Clone the repository
 
 git clone https://github.com/Mafii61/demand-forecasting-linear-regression.git
+
 cd demand-forecasting-linear-regression
 
 ## 2. Create a virtual environment
